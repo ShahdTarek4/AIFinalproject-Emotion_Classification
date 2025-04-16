@@ -7,10 +7,10 @@ A web application built with Streamlit that classifies text into emotional categ
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Example Outputs](#Example-Outputs)
-- [DataSet](#DataSet)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example Outputs](#example-outputs)
+- [DataSet](#dataset)
 
 
 ## Features
@@ -34,9 +34,9 @@ A web application built with Streamlit that classifies text into emotional categ
    ```
 
 3. Run application:
-  ```python
-  streamlit run emotion_prediction.py
-  ```
+   ```python
+   streamlit run emotion_prediction.py
+   ```
 
 ## Usage:
 1.Type or paste your text in the input box
