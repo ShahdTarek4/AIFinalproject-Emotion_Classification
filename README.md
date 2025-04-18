@@ -24,8 +24,8 @@ A web application built with Streamlit that classifies text into emotional categ
 
 1. Clone the repository:
    ```python
-   git clone https://github.com/ShahdTarek4/AIFinalproject-Emotion_Classification
-   cd emotion-classification-app
+   git clone https://github.com/ShahdTarek4/Emotion-Classification-App-With-Streamlit.git
+   cd Emotion-Classification-App-With-Streamlit
     ```
 
 2. Install Dependencies:
